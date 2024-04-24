@@ -67,4 +67,4 @@ def main():
 if __name__ == "__main__":
     main()
 
-#para probar: mpiexec -n 2 python monolitico.py
+#para probar: mpiexec -n 2 python eventos.py
